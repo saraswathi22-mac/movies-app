@@ -1,4 +1,8 @@
-.movies {
-  padding: 0;
-  margin: 0;
+
+h2{
+  border: 1px solid red;
+  display: inline-grid;
+  height: 50px;
+  width: 100px;
+  padding: 100px;
 }
